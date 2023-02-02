@@ -8,9 +8,8 @@
  *
  *    *@src: A pointer to a character that will also be changed
  *
- *     *Return: dest
+ *     *Return: dest */
  *
- *      */
 
 
 
